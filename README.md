@@ -3,6 +3,8 @@ Homework Description
 ## description
 an e-commerce backend using Express and Sequelize.
 
+## link to walk through
+https://youtu.be/GhQqFphicV4
 
 ## installation 
 Node
